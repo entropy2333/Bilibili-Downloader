@@ -1,0 +1,7 @@
+{
+    "url": "",
+    "dir": "",
+    "quality": "80",
+    "block_size": "10*1024*1024",
+    "thread_num": "20"
+}
