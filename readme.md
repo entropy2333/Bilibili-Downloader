@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/entropy2333/bilibili downloader">
+  <a href="https://github.com/entropy2333/Bilibili-Downloader">
     <img
       alt="MyRansom"
       src="https://pic.images.ac.cn/image/5ea2589789cd1.html"
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-## Bilibili Downloader
+## Bilibili-Downloader
 
 Homework of IS305
 
